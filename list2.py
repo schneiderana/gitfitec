@@ -41,7 +41,7 @@ print(list1)
 #    prefix = '  X '
 #  print('%s got: %s expected: %s' % (prefix, repr(got), repr(expected)))
 
-
+test kjhdf
 # Calls the above functions with interesting inputs.
 class tests(unittest.TestCase):
     def test_remove_adjacent(self):
