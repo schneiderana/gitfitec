@@ -15,6 +15,7 @@ def remove_adjacent(nums):
 # list of all the elements in sorted order. You may modify the passed in lists.
 # Ideally, the solution should work in "linear" time, making a single
 # pass of both lists.
+print("test github")
 def linear_merge(list1, list2):
     lists = []
     while len(list1) and len(list2):
