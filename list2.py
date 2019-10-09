@@ -29,6 +29,9 @@ def linear_merge(list1, list2):
 
 print("test github")
 
+import list1
+print(list1)
+
 # Simple provided test() function used in main() to print
 # what each function returns vs. what it's supposed to return.
 #def test(got, expected):
