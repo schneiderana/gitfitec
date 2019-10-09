@@ -10,7 +10,7 @@ def remove_adjacent(nums):
   nums = set(nums)
   return list(nums)
 
-
+print("test second branch")
 # E. Given two lists sorted in increasing order, create and return a merged
 # list of all the elements in sorted order. You may modify the passed in lists.
 # Ideally, the solution should work in "linear" time, making a single
