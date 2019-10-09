@@ -14,7 +14,7 @@ import unittest
 # Given a list of strings, return the count of the number of
 # strings where the string length is 2 or more and the first
 # and last chars of the string are the same.
-
+print("test github")
 def match_ends(words):
     count = 0
     for word in words :

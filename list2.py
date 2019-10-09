@@ -27,6 +27,7 @@ def linear_merge(list1, list2):
     lists.extend(list2)
     return lists
 
+print("test github")
 
 # Simple provided test() function used in main() to print
 # what each function returns vs. what it's supposed to return.
