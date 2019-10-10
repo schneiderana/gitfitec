@@ -1,6 +1,8 @@
 #!/usr/bin/python -tt
 from operator import itemgetter
 import unittest
+from list2 import remove_adjacent
+import numpy as np
 
 # Basic list exercises
 # Fill in the code for the functions below. main() is already set up
