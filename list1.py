@@ -2,6 +2,7 @@
 from operator import itemgetter
 import unittest
 from list2 import remove_adjacent
+import numpy as np
 # Basic list exercises
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,
@@ -18,7 +19,13 @@ from list2 import remove_adjacent
 print("test github")
 
 print("let's find out what it happens!!")
+list_numbers = []
+for n in range(10):
+    list_numbers.append(n)
 
+sum_list = np.sum(list_numbers)
+
+print(sum_list)
 def match_ends(words):
     count = 0
     for word in words :
