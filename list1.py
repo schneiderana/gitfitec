@@ -16,6 +16,9 @@ from list2 import remove_adjacent
 # strings where the string length is 2 or more and the first
 # and last chars of the string are the same.
 print("test github")
+
+print("let's find out what it happens!!")
+
 def match_ends(words):
     count = 0
     for word in words :
