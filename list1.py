@@ -43,7 +43,7 @@ def front_x(words):
     all_words = sorted(word_x) + sorted(word_notx)
     return all_words
 
-
+print("test second branch")
 
 # C. sort_last
 # Given a list of non-empty tuples, return a list sorted in increasing
