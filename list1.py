@@ -1,6 +1,7 @@
 #!/usr/bin/python -tt
 from operator import itemgetter
 import unittest
+from list2 import remove_adjacent
 # Basic list exercises
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,
@@ -22,7 +23,7 @@ def match_ends(words):
             count += 1
     return count
 
-
+print(remove_adjacent([1,2,3,3,5,5,5,6]))
 # B. front_x
 # Given a list of strings, return a list with the strings
 # in sorted order, except group all the strings that begin with 'x' first.
