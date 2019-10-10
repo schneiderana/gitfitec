@@ -1,7 +1,7 @@
 #!/usr/bin/python -tt
 from operator import itemgetter
 import unittest
-import list3
+
 # Basic list exercises
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,
@@ -16,7 +16,7 @@ import list3
 # strings where the string length is 2 or more and the first
 # and last chars of the string are the same.
 
-fonction(jajaja)
+print("new test")
 
 def match_ends(words):
     count = 0
