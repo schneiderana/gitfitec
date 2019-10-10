@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #!/usr/bin/python -tt
 from operator import itemgetter
 import unittest
